@@ -1,0 +1,1 @@
+It allows passing request along the chain of potential handlers until one of them handles request.

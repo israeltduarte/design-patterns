@@ -1,0 +1,1 @@
+It allows constructing complex objects step by step.
